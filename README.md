@@ -5,9 +5,9 @@ A flutter autofilled password demo
 # Screenshots
 
 ## Android
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-02-28 at 8.57.58 PM.png)
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-02-28 at 8.58.08 PM.png)
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-02-28 at 9.01.29 PM.png)
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-02-28%20at%208.57.58%20PM.png)
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-02-28%20at%208.58.08%20PM.png)
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-02-28%20at%209.01.29%20PM.png)
 
 ## iOS
 ![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/IMG_0009.PNG)
@@ -32,18 +32,20 @@ Now, follow these steps:
 When you run afservice, you should automatically see the following screen. If this screen isn’t visible, open Settings and search for autofill service.
 
 1. Scroll to the bottom and under the Enable/Disable section, toggle the “Set default Autofill service” to turn autofill on.
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-03-01 at 9.55.49 AM.png)
+
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-03-01%20at%209.55.49%20AM.png)
 
 2. On the following screen, choose “Debug Autofill Service”.
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-02-28 at 9.01.29 PM.png)
+
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-02-28%20at%209.01.29%20PM.png)
 
 3. Click OK in the Make sure you trust this app dialog.
 4. On the original screen, tap “Add fake Autofill data”. Select the number of datasets that you would like to use for testing.
 
 That’s it! Close the afservice folder and return to your project, launch the emulator and you should see autofill suggestions on your app. The number of visible suggestions is based on the number of fake datasets you added in the fourth step.
 
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-02-28 at 8.57.58 PM.png)
-![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot 2022-02-28 at 8.58.08 PM.png)
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-02-28%20at%208.57.58%20PM.png)
+![alt text](https://github.com/myatminnaung/flutter_autofill_demo/blob/master/assets/screenshots/Screenshot%202022-02-28%20at%208.58.08%20PM.png)
 
 
 # Resources
